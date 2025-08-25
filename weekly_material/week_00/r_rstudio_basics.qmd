@@ -26,8 +26,8 @@ R Studio is a free user interface for using R. It adds a lot of functionality an
 
 Datahub is a tool that allows you to run R Studio in a standardized, common, cloud computing environment. We recommend using the Datahub in most cases, instead of installing the software on your own computer (at least while you are getting started!).
 
-1.  Click the link to access the [Public Health Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FPHW290%2FPHW251_Fall2023&urlpath=rstudio%2F). *Note: there are other Datahubs at UC Berkeley, however the setup is slightly different. Please use the public health one linked here.*
-2.  Sign in with bCourses when prompted. You will need to click "Authorize" to allow Datahub to connect to your bCourses account.
+1.  To access the Public Health Datahub, please use the link on the Datahub tab within the course bCourses site. This link will automatically sync to provide the most updated course material. *Note: there are other Datahubs at UC Berkeley, however the setup is slightly different. Please use the one linked on bCourses.*
+2.  Sign in with bCourses, if prompted (you may not be prompted to since you are already within bCourses). You will need to click "Authorize" to allow Datahub to connect to your bCourses account.
 
 ![](images/datahub.png){fig-align="center"}
 
