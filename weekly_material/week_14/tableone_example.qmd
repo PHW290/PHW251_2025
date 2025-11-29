@@ -43,7 +43,7 @@ The following tutorial walks through the process of using `tableone` to create d
 When working with the nhanes package, we'll use a number of built in functions, such as `nhanes()` to pull in data.
 
 ```{r}
-data <- nhanes("DEMO_H")
+data <- nhanesFromURL("https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DEMO_H.xpt")
 head(data)
 ```
 
